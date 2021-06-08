@@ -1,8 +1,8 @@
 package com.xyz.common.util.test;
 
-import java.util.concurrent.CountDownLatch;
-
 import com.xyz.common.util.LockUtil;
+
+import java.util.concurrent.CountDownLatch;
 
 public class LockNumAdd extends NumAdd {
 	final CountDownLatch end;

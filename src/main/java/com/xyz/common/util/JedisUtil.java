@@ -1,13 +1,12 @@
 package com.xyz.common.util;
 
-import java.util.Collections;
-import java.util.Objects;
-
 import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
-
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.exceptions.JedisException;
+
+import java.util.Collections;
+import java.util.Objects;
 
 public class JedisUtil {
 

@@ -15,7 +15,7 @@ public class JedisUtil {
 	private static JedisPool jedisPool = null;
 	static {
 		GenericObjectPoolConfig config = new GenericObjectPoolConfig();
-		jedisPool = new JedisPool(config, "127.0.0.1", 6379, 6000, "test");
+		jedisPool = new JedisPool(config, "127.0.0.1", 6379, 6000);
 	}
 
 	private static Jedis getJedis() throws JedisException {
@@ -51,6 +51,12 @@ public class JedisUtil {
 		return flag;
 	}
 
+	/**
+	 * 这种方式不可行 不采用
+	 * @param key
+	 * @param value
+	 * @return
+	 */
 	@Deprecated
 	public static long setnx(String key, String value) {
 		Jedis jedis = null;

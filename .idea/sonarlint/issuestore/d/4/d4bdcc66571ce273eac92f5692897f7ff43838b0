@@ -1,0 +1,22 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(û¤ÿ‚
+V	java:S125L"<This block of commented-out lines of code should be removed.(Ê’¼óùÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(Ë¼–“ýÿÿÿÿ
+Ž
+java:S1130"xRemove the declaration of thrown exception 'redis.clients.jedis.exceptions.JedisException' which is a runtime exception.(ÒÇ³´
+J
+java:S1133="5Do not forget to remove this deprecated code someday.(ÿì³
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ê‡§Ðüÿÿÿÿ
+C
+java:S1144d"-Remove this unused private "unlockV1" method.(ÏÐ–
+b
+java:S22591"G"NullPointerException" will be thrown when invoking method "release()".(ƒ¿®Æþÿÿÿÿ
+^
+java:S2259^"CA "NullPointerException" could be thrown; "jedis" is nullable here.(–¢Øƒûÿÿÿÿ
+b
+java:S2259F"G"NullPointerException" will be thrown when invoking method "release()".(ƒ¿®Æþÿÿÿÿ
+^
+java:S2259t"CA "NullPointerException" could be thrown; "jedis" is nullable here.(–¢Øƒûÿÿÿÿ
+=
+java:S1123="(Add the missing @deprecated Javadoc tag.(ÿì³

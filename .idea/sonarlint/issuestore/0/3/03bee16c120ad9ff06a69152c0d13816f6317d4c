@@ -1,0 +1,27 @@
+
+b
+java:S1192“"KDefine a constant instead of duplicating this literal ",lockTime:" 5 times.(Îˆ¥º
+g
+java:S1192”"PDefine a constant instead of duplicating this literal ",timeOutMillis:" 5 times.(Ð³žÈ
+^
+java:S1192v"HDefine a constant instead of duplicating this literal ",value:" 7 times.(…Ï€»
+e
+java:S1192“"NDefine a constant instead of duplicating this literal ",needTimeOut:" 5 times.(Îˆ¥º
+_
+java:S1192“"HDefine a constant instead of duplicating this literal ",reTry:" 5 times.(Îˆ¥º
+d
+java:S1192“"MDefine a constant instead of duplicating this literal ",curTryTime:" 5 times.(Îˆ¥º
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(‹Ç¯øúÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ÙïÉŠùÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(…Ï€»
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(·‹ëà
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(¹ëëÝ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(ô¾Þ¿ûÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(í¦¦”
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(í¦¦”
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(ðÍèõ
+]
+java:S2142Ð"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

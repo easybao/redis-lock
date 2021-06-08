@@ -14,7 +14,7 @@ public class LockNumAdd extends NumAdd {
 
 	@Override
 	public void run() {
-		for (int i = 0; i < 100; i++) {
+		for (int i = 0; i < 1000; i++) {
 			String key = "testLock";
 			String value = LockUtil.getLockValue();
 			LockUtil.lock(key, value);
